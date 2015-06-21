@@ -1,5 +1,5 @@
-## This functions make use of the <<- assigment operator to store a matrix a its inverse 
-## in an enviroment created by makeCacheMatrix()
+## This functions make use of the <<- assigment operator to calculate and store a matrix and its inverse 
+## in the global enviroment to allow the access to them by other functions.
 
 ## Defines an enviroment and returns a list of functions that are in that enviroment.
 ## It also defines objects 'x' and 'inverse' to store the matrix and its inverse
