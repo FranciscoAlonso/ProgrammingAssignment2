@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This functions make use of the <<- assigment operator to store a matrix a its inverse 
 ## in an enviroment created by makeCacheMatrix()
 
